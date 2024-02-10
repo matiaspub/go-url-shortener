@@ -21,6 +21,8 @@
 # Go workspace file
 go.work
 
+# IDE
+.idea
+
 # url-shortener
 /storage/storage.db
-./identifier.sqlite
